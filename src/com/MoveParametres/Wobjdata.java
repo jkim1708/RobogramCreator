@@ -26,7 +26,7 @@ public class Wobjdata {
     }
 
     // == methods ==
-public String test() {
+public String getDbData() {
     // Create a ResultSetHandler implementation to convert the
 // first row into an Object[].
     ResultSetHandler<Object[]> h = new ResultSetHandler<Object[]>() {
