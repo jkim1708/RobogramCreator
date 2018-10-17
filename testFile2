@@ -1,0 +1,7 @@
+!*******************************
+PROC Job_10() 
+description:
+picks part from station: Conveyor
+!*******************************
+PROC Job_10()
+ENDPROC

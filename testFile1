@@ -1,0 +1,5 @@
+PROC Job_10()ENDPROC
+MoveJ pHome,vMax,zMid,tGripper,wHome;
+MoveL pHome,vMax,zMid,tGripper,wHome;
+ENDPROC
+ENDMODULEDULE
