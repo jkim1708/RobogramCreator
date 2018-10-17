@@ -24,7 +24,7 @@ public class Main {
 
         Wobjdata w1 = new Wobjdata();
 
-        System.out.println(w1.getDbData());
+        System.out.println(w1.getDbDataTest());
 //        initialize();
 //
 //
